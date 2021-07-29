@@ -26,7 +26,7 @@ This will be your main line for following along the bootcamp.
 During a paid course from work I met a nice teacher who taught our class the basics from this book called 'The Coders Apprentice'.
 We did only the first chapters and I finished the rest on my own. Frankly, this book is a 10/10.
 
-https://www.spnronck.net/pythonbook/
+https://www.spronck.net/pythonbook/
 
 ## A tough starters course
 
