@@ -57,7 +57,7 @@ Either one of these books will get you to the next level. Having a more solid un
 ## Project time!
 
 Learning is fun but do not forget that learning is the means to gain the knowledge so you can realise your dreams.
-Their are many types of project but consider the following:
+There are many types of project but consider the following:
 - Create a simple webapp in Flask
 - Create a simple game in PyGame
 - Create a decent CLI ( Command Line Interface ) with ArgParse / sys.argv
