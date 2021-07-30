@@ -1,4 +1,4 @@
-# Ways of the Code
+# Ways of the Code - Python Bootcamp
 
 Welcome to Ways of the Code, where you will learn both Python and the tools of the programming trade.
 
