@@ -52,5 +52,3 @@ https://ubuntu-mate.org/
 https://kubuntu.org/   
    
 After Virtualbox has been downloaded, you start installing your downloaded .iso file.   
-   
-   
