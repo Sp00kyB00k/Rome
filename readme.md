@@ -1,28 +1,58 @@
-# Ways of the Code
+# Rome
 
-Hi there,  
+As the saying goes, all roads lead to Rome.
 
-I am CommandReverse / SleepyMarauder and I am glad to meet you.  
-This is going to be a roadmap to bring you from not knowing how to program to knowing the 'Ways of the Code'.  
+## Introduction
 
-Instead of paying a lot of money I will teach you for free.  
-I will be teaching a variety of subjects.  
+Hi there,
 
-__DISCLAIMER__
-Most of the resources I provide are for free.  
-plf couldn't provide a link, there is a way to get it for free but please consider supporting the writers of the book.  
-Even if it is free, still consider supporting providing the providers for their book.  
+I am Sp00kyB00k and I am glad to meet you.  
+This is going to be a collection of Roadmaps and accompanying setup Guides to help you to get where you need to be.
+
+**DISCLAIMER**  
+Almost all of the resources I provide are for free.  
+However some aren't.  
+Often there there is a way to get it for free  
+but please consider supporting the writers of the book.
+
+## Content
+
+Every subject will be in it's own place consisting out of two parts.
+
+1. A setup guide to get you started with said topics
+2. A roadmap that will help you from absolute novice to a skilled person.
 
 ## Subjects
 
-The first subject is Python, is already online.  
-The second subject will be Cloud Engineering and is in design.  
+The courses will be addressing several different topics.
 
-## Coming up
+- Programming Languages
+- Operating Systems
+- Networking & Protocols
+- Operations
 
-Linux + Bash  
-Ethical Hacking  
-Rust  
-C  
-JavaScript  
+### Programming Languages
 
+- [x] Python
+- [ ] Rust
+- [ ] C
+- [ ] JavaScript
+- [ ] CSS
+- [ ] HTML
+
+### Operating Systems
+
+- [ ] Linux
+- [ ] Windows
+- [ ] Bash
+- [ ] Powershell
+
+### Networking & Protocols
+
+- [ ] Networking
+- [ ] IT Protocols
+- [ ] OT Protocols
+
+### Operations
+
+- [x] Cloud Engineering
