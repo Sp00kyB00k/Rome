@@ -1,6 +1,6 @@
-# Ways of the Code - Python Bootcamp
+# Rome - Python Bootcamp
 
-Welcome to Ways of the Code, where you will learn both Python and the tools of the programming trade.
+Welcome to Rome, where you will learn both Python and the tools of the programming trade.
 
 Aside from learning Python, an interpreted language, you will also learn how to program with many common tools used today.  
 From my personal experience many resources teach you how to do one thing but fail to even mention what much needed 'side quests' there are.
