@@ -22,37 +22,8 @@ Every subject will be in it's own place consisting out of two parts.
 1. A setup guide to get you started with said topics
 2. A roadmap that will help you from absolute novice to a skilled person.
 
-## Subjects
-
-The courses will be addressing several different topics.
-
-- Programming Languages
-- Operating Systems
-- Networking & Protocols
-- Operations
-
 ### Programming Languages
 
 - [x] Python
 - [ ] Rust
 - [ ] C
-- [ ] JavaScript
-- [ ] CSS
-- [ ] HTML
-
-### Operating Systems
-
-- [ ] Linux
-- [ ] Windows
-- [ ] Bash
-- [ ] Powershell
-
-### Networking & Protocols
-
-- [ ] Networking
-- [ ] IT Protocols
-- [ ] OT Protocols
-
-### Operations
-
-- [x] Cloud Engineering
